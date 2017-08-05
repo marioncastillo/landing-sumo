@@ -3,7 +3,6 @@
 }
 .first-section{
 	background-image: url(../img/bg.jpeg);
-	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
